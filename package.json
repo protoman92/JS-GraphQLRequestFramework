@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/protoman92/JS-GraphQLRequestFramework#readme",
   "dependencies": {
+    "@types/graphql": "^0.11.8",
     "apollo-cache-inmemory": "^1.1.5",
     "apollo-client": "^2.2.0",
     "apollo-link-http": "^1.3.2",
